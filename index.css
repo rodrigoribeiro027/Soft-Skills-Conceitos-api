@@ -1,0 +1,47 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+
+}
+
+li {
+    margin-left: 25px;
+}
+
+div:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(146, 146, 146);
+}
+
+div {
+    width: 80%;
+    margin: 0 auto ;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 1%;
+    padding: 20px;
+}
+
+div-text{
+    width: 70%;
+    text-align: center;
+}
+details{
+    margin-left: 12.5%;
+
+}
+.ul-navbar{
+    margin-right: 40%;
+}
+.ul-navbar {
+    margin-right: 0;
+}
